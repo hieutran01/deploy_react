@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/m5_build/static/css/main.62974305.css",
-    "main.js": "/m5_build/static/js/main.fac99979.js",
-    "static/js/787.9315592e.chunk.js": "/m5_build/static/js/787.9315592e.chunk.js",
-    "index.html": "/m5_build/index.html",
-    "main.62974305.css.map": "/m5_build/static/css/main.62974305.css.map",
-    "main.fac99979.js.map": "/m5_build/static/js/main.fac99979.js.map",
-    "787.9315592e.chunk.js.map": "/m5_build/static/js/787.9315592e.chunk.js.map"
+    "main.css": "/deploy_react/static/css/main.62974305.css",
+    "main.js": "/deploy_react/static/js/main.e44078c7.js",
+    "static/js/787.9315592e.chunk.js": "/deploy_react/static/js/787.9315592e.chunk.js",
+    "index.html": "/deploy_react/index.html",
+    "main.62974305.css.map": "/deploy_react/static/css/main.62974305.css.map",
+    "main.e44078c7.js.map": "/deploy_react/static/js/main.e44078c7.js.map",
+    "787.9315592e.chunk.js.map": "/deploy_react/static/js/787.9315592e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62974305.css",
-    "static/js/main.fac99979.js"
+    "static/js/main.e44078c7.js"
   ]
 }
